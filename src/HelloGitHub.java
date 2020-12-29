@@ -4,5 +4,6 @@ public class HelloGitHub
 		System.out.println("hello GitHub!");
 		System.out.println("from xjl-flying update!");
 		System.out.println("BBB");
+		System.out.println("AAA");
 	}
 }
